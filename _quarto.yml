@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  
+website:
+  title: "CSAMA 2025"
+  open-graph:
+     locale:
+       en_US
+     site-name:
+       "CSAMA 2025"
+  navbar:
+    title: false
+    background: "#1a81c2"
+    foreground: "white"
+    logo: "images/EuroBioC_orig.png"
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      - materia
+    css: styles.css
+    linkcolor: "#2A57A3"
+    toc-color: "#2A57A3"
+    toc: true
+    grid:
+      sidebar-width: 150px
+      body-width: 750px
+      margin-width: 300px
+    date-format: iso
+    include-in-header:
+      - text: |
+          <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate"> 
+    lightbox: true
