@@ -3,7 +3,7 @@ project:
   output-dir: _site
   
 website:
-  title: "CSAMA 2025"
+  title: "CSAMA 2025 Biological Data Science"
   open-graph:
      locale:
        en_US
@@ -13,7 +13,7 @@ website:
     title: false
     background: "#1a81c2"
     foreground: "white"
-    logo: "images/EuroBioC_orig.png"
+    logo: "images/CSAMA2025.png"
     search: true
     left:
       - href: index.qmd
@@ -36,3 +36,4 @@ format:
       - text: |
           <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate"> 
     lightbox: true
+    

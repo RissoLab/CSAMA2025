@@ -1,11 +1,40 @@
 ---
-title: "CSAMA2025"
+title: </br> </br> CSAMA 2025  </br> Biological Data Science </br> </br>
+title-block-banner: images/csama2018_crop.jpeg
+subtitle: 21st Edition </br> 
+          Bressanone-Brixen, Italy </br>
+          6-11 July 2025
 ---
 
-This is a Quarto website.
+# Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The one-week intensive summer school **Biological Data Science** teaches advanced computational analyses of modern molecular data types in biology and biomedicine, including single cell and spatial omics. It comprises lectures covering underlying theory and concepts, practical hands-on exercises, and informal discussion sessions. Lecture topics include modern biotechnologies for quantitative measurements, statistical analysis, visualisation, and computational tools. Hands-on exercises are looking at state-of-the-art datasets, using the R / Bioconductor environment. At the end of the course, you should be better able to design, implement and interpret analyses on your own (multi-)omic, single and/or spatial data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies.
 
-```{r}
-1 + 1
-```
+# Faculty and Teaching Assistants
+
+| | | |
+| :--: | :--: | :--: |
+| **Vince Carey** | **Laurent Gatto** | **Robert Gentleman** |
+| Harvard Medical School | UC Louvain | EMBL |
+| **Wolfgang Huber** | **Michael Love** | **Johannes Rainer** |
+| EMBL | University of North Carolina | Eurac Research |
+| **Davide Risso** | **Charlotte Soneson** | **Philippine Louail** |
+| University of Padova | Friedrich Miescher Institute for Biomedical Research | Eurac Research |
+
+
+::: {.column-margin}
+Organized in collaboration with </br></br></br>
+
+<a href="https://bioconductor.org/" target="_blank">
+<img  src="images/bioconductor_logo_cmyk.jpg" alt="Bioconductor" class="img-responsive" /> </a>
+
+<a href="https://www.stat.unipd.it/en" target="_blank">
+<img  src="images/stat_unipd_logo.jpg" alt="Department of Statistical Sciences" class="img-responsive"/> </a>
+
+<a href="https://www.unipd.it/en" target="_blank">
+<img  src="images/UNIPD_logo.png" alt="University of Padova" class="img-responsive" /> </a>
+
+<a href="https://www.embl.org/" target="_blank">
+<img  src="images/EMBL_logo.png" alt="University of Padova" class="img-responsive" /> </a>
+
+:::
