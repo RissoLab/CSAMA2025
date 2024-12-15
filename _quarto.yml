@@ -15,9 +15,27 @@ website:
     foreground: "white"
     logo: "images/CSAMA2025.png"
     search: true
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - href: programme-coming-soon.qmd
+        text: Programme
+      - href: registration-coming-soon.qmd
+        text: Registration
+      - href: venue.qmd
+        text: Venue
+      - href: travel-and-accommodation.qmd
+        text: Travel and Accommodation
+      - href: code.qmd
+        text: Code of Conduct
+      - href: contacts.qmd
+        text: Contacts
+  page-footer: 
+    left: "Copyright (c) 2025, European Bioconductor Society e.V. </br>
+  The European Bioconductor Society e.V. is 
+  a registered association in Germany created to support 
+  Bioconductor's mission to promote open source software 
+  in the life sciences and statistics."
 
 format:
   html:

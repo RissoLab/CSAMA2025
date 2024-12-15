@@ -15,7 +15,7 @@ The one-week intensive summer school **Biological Data Science** teaches advance
 | | | |
 | :--: | :--: | :--: |
 | **Vince Carey** | **Laurent Gatto** | **Robert Gentleman** |
-| Harvard Medical School | UC Louvain | EMBL |
+| Harvard Medical School | UC Louvain |  |
 | **Wolfgang Huber** | **Michael Love** | **Johannes Rainer** |
 | EMBL | University of North Carolina | Eurac Research |
 | **Davide Risso** | **Charlotte Soneson** | **Philippine Louail** |
