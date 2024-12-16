@@ -18,9 +18,10 @@ The one-week intensive summer school **Biological Data Science** teaches advance
 | Harvard Medical School | UC Louvain |  |
 | **Wolfgang Huber** | **Michael Love** | **Johannes Rainer** |
 | EMBL | University of North Carolina | Eurac Research |
-| **Davide Risso** | **Charlotte Soneson** | **Philippine Louail** |
-| University of Padova | Friedrich Miescher Institute for Biomedical Research | Eurac Research |
-
+| **Davide Risso** | **Charlotte Soneson** |  |
+| University of Padova | Friedrich Miescher Institute for Biomedical Research |  |
+| **Ilaria Billato** | **Philippine Louail** | |
+| University of Padova | Eurac Research | |
 
 ::: {.column-margin}
 Organized in collaboration with </br></br></br>
