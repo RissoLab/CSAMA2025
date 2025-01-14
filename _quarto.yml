@@ -20,7 +20,7 @@ website:
         text: Home
       - href: programme-coming-soon.qmd
         text: Programme
-      - href: registration-coming-soon.qmd
+      - href: registration.qmd
         text: Registration
       - href: venue.qmd
         text: Venue
