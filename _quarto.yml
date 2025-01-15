@@ -18,7 +18,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: programme-coming-soon.qmd
+      - href: programme.qmd
         text: Programme
       - href: registration.qmd
         text: Registration
