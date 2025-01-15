@@ -36,6 +36,7 @@ website:
   a registered association in Germany created to support 
   Bioconductor's mission to promote open source software 
   in the life sciences and statistics."
+  favicon: images/CSAMA2025.png
 
 format:
   html:
