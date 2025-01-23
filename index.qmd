@@ -14,17 +14,17 @@ The one-week intensive summer school **Biological Data Science** teaches advance
 
 | | | |
 | :--: | :--: | :--: |
-| **Vince Carey** | **Laurent Gatto** | **Robert Gentleman** |
-| Harvard Medical School | UC Louvain |  |
-| **Wolfgang Huber** | **Michael Love** | **Johannes Rainer** |
-| EMBL | University of North Carolina | Eurac Research |
-| **Davide Risso** | **Charlotte Soneson** |  |
-| University of Padova | Friedrich Miescher Institute for Biomedical Research |  |
-| **Ilaria Billato** | **Philippine Louail** | |
-| University of Padova | Eurac Research | |
+| ![Vince Carey](images/faculty/carey.jpeg){width=200}<br> **Vince Carey**<br> Harvard Medical School | ![Helena Crowell](images/faculty/crowell.jpeg){width=200}<br> **Helena Crowell**<br> CNAG Barcelona |  ![Laurent Gatto](images/faculty/gatto.jpg){width=200}<br> **Laurent Gatto**<br> UC Louvain |
+|  |  |  |
+| ![Robert Gentleman](images/faculty/gentleman.jpg){width=200}<br> **Robert Gentleman** | ![Wolfgang Huber](images/faculty/huber.jpg){width=200}<br> **Wolfgang Huber**<br> EMBL| ![Michael Love](images/faculty/love.jpg){width=200}<br> **Michael Love**<br> University of North Carolina |
+|  |  |  |
+| ![Johannes Rainer](images/faculty/rainer.jpeg){width=200}<br> **Johannes Rainer**<br> Eurac Research | ![Davide Risso](images/faculty/risso.jpeg){width=200}<br> **Davide Risso**<br> University of Padova | ![Charlotte Soneson](images/faculty/soneson.jpg){width=200}<br> **Charlotte Soneson**<br> Friedrich Miescher Institute for Biomedical Research |
+|  |  |  |
+| ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | ![Philippine Louail](images/faculty/louail.jpg){width=200}<br> **Philippine Louail**<br> Eurac Research | |
+| | | |
 
 ::: {.column-margin}
-Organized in collaboration with </br></br></br>
+Organized in collaboration with <br><br><br>
 
 <a href="https://bioconductor.org/" target="_blank">
 <img  src="images/bioconductor_logo_cmyk.jpg" alt="Bioconductor" class="img-responsive" /> </a>
