@@ -37,6 +37,7 @@ website:
   Bioconductor's mission to promote open source software 
   in the life sciences and statistics."
   favicon: "images/CSAMA2025.png"
+  image: "images/CSAMA2025.png"
 
 format:
   html:
