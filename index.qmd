@@ -20,7 +20,7 @@ The one-week intensive summer school **Biological Data Science** teaches advance
 |  |  |  |
 | ![Johannes Rainer](images/faculty/rainer.jpeg){width=200}<br> **Johannes Rainer**<br> Eurac Research | ![Davide Risso](images/faculty/risso.jpeg){width=200}<br> **Davide Risso**<br> University of Padova | ![Charlotte Soneson](images/faculty/soneson.jpg){width=200}<br> **Charlotte Soneson**<br> Friedrich Miescher Institute for Biomedical Research |
 |  |  |  |
-| ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | ![Philippine Louail](images/faculty/louail.jpg){width=200}<br> **Philippine Louail**<br> Eurac Research | |
+| ![Ilaria Billato](images/faculty/billato.jpg){width=200}<br> **Ilaria Billato**<br> University of Padova | ![Philippine Louail](images/faculty/louail.jpg){width=200}<br> **Philippine Louail**<br> Eurac Research | ![Daria Lazic](images/faculty/lazic.jpg){width=200}<br> **Daria Lazic**<br> EMBL |
 | | | |
 
 ::: {.column-margin}
