@@ -31,7 +31,7 @@
 | 09:15-10:00                               | **Lecture:** Transcriptomics: biology of transcription, quantification, batch effects and QC                                                 |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Regression: power, identifiability, diagnostics                                                                                 |
-| 11:15-12:00                               | **Lecture:** [Hypothesis testing](https://docs.google.com/presentation/d/13S3A2gWKo0noX0nFIIJIfqKGsUBgTMnGLzLH9D8_c4g/edit?usp=sharing)                                                                                     |
+| 11:15-12:00                               | **Lecture:** Hypothesis testing                                                                                                              |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
