@@ -22,7 +22,7 @@ If you are using Windows we recommend Git-For-Windows ([https://git-for-windows.
 ```{r}
 #| eval: false
 #| include: true
-source("https://csama2024.bioconductor.eu/install_packages.R")
+source("https://csama2025.bioconductor.eu/install_packages.R")
 ```
 
 The script will check if you have the versions of R, Bioconductor and RStudio that are required for the course. The script will also install the R/Bioconductor packages needed for the course. The script might trigger a question about whether you would like to update old packages, please select the option to update “all”. It will also download several datasets used during the course, and may prompt you to create new folders. It is safe to use the default options here. This process may take a long time, but it is generally OK to leave it running after the installation has started. The list of packages may be updated nearer to the start date, so it is worth running this script several times in the build up to the course.
