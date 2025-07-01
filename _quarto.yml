@@ -20,6 +20,66 @@ website:
         text: Home
       - href: programme.qmd
         text: Programme
+      - text: Lectures
+        menu:
+          - href: lectures/intro.qmd
+            text: Introduction to Bioconductor
+          - href: lectures/transcriptomics.qmd
+            text: Transcriptomics: biology of transcription, quantification, batch effects and QC
+          - href: lectures/regression.qmd
+            text: Regression: power, identifiability, diagnostics
+          - href: lectures/HT.qmd
+            text: Hypothesis testing
+          - href: lectures/RNA-seq-DE.qmd
+            text: RNA-Seq differential expression
+          - href: lectures/scRNA-seq.qmd
+            text: Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings
+          - href: lectures/dim-reduction.qmd
+            text: Dimension reduction: PCA and other low-dimensional embeddings
+          - href: lectures/ATAC-seq.qmd
+            text: Chromatin accessibility and ATAC-seq
+          - href: lectures/clustering.qmd
+            text: Distances, nearest-neighbour graphs and clustering
+          - href: lectures/scRNA-seq-adv.qmd
+            text: Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping
+          - href: lectures/multi-cond-scRNA.qmd
+            text: Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)
+          - href: lectures/scRNA-multi-omics.qmd
+            text: Single cell advanced topics: multi-omics
+          - href: lectures/Mass-spec-prot.qmd
+            text: Mass spectrometry-based proteomics including single-cell
+          - href: lectures/Mass-spec-metab.qmd
+            text: Mass spectrometry-based metabolomics
+          - href: lectures/spatial.qmd
+            text: Spatial (transcript)omics 
+          - href: lectures/annotation.qmd
+            text: Bioconductor advanced topics: annotation resources
+          - href: lectures/exp-design.qmd
+            text: Design of High Throughput Experiments and their Analysis
+          - href: lectures/machine-learning.qmd
+            text: Machine learning (Robert Gentleman)
+          - href: lectures/AI-tools.qmd
+            text: AI tools for biology
+      - text: Labs
+        menu:
+          - href: lab/intro-to-r-bioc.qmd
+            text: Intro to R and Bioconductor
+          - href: lab/quarto-intro.qmd
+            text: Intro to Quarto
+          - href: lab/bulk-rnaseq.qmd
+            text: Bulk RNA-seq analysis
+          - href: lab/single-cell-rnaseq.qmd
+            text: Single cell RNA-seq analysis
+          - href: lab/single-cell-rnaseq-adv.qmd
+            text: Advanced single-cell RNA-seq analysis
+          - href: lab/bulk-atacseq.qmd
+            text: Bulk ATAC-seq analysis
+          - href: lab/mass-spec-prot.qmd
+            text: Mass spectrometry-based proteomics
+          - href: lab/spat-trans.qmd
+            text: Spatial transcriptomics
+          - href: lab/interac-exp-isee.qmd
+            text: Interactive exploration with iSEE
       - href: registration.qmd
         text: Registration
       - href: venue.qmd
@@ -30,6 +90,8 @@ website:
         text: Code of Conduct
       - href: contacts.qmd
         text: Contacts
+      - href: installation.qmd
+        text: Installation
   page-footer: 
     left: "Copyright (c) 2025, European Bioconductor Society e.V. </br>
   The European Bioconductor Society e.V. is 

@@ -31,7 +31,7 @@
 | 09:15-10:00                               | **Lecture:** Transcriptomics: biology of transcription, quantification, batch effects and QC                                                 |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Regression: power, identifiability, diagnostics                                                                                 |
-| 11:15-12:00                               | **Lecture:** Statistical testing and multiple hypotheses                                                                                     |
+| 11:15-12:00                               | **Lecture:** Hypothesis testing                                                                                                              |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
@@ -43,7 +43,7 @@
 | 09:15-10:00                               | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings                                                   |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Dimension reduction: PCA and other low-dimensional embeddings                                                                   |
-| 11:15-12:00                               | **Lecture:** Distances, nearest-neighbour graphs and clustering                                                                              |
+| 11:15-12:00                               | **Lecture:** Chromatin accessibility and ATAC-seq                                                                                            |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** End-to-end RNA-Seq workflow                                                                                                         |
 | 14:00-15:30                               | **Lab:** Single-cell transcriptomics                                                                                                         |
@@ -52,7 +52,7 @@
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
 | 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
 | <font color="teal">**Wed 9 July**</font>  |                                                                                                                                              |
-| 08:30-09:15                               | **Lecture:** Chromatin accessibility and ATAC-seq                                                                                            |
+| 08:30-09:15                               | **Lecture:** Distances, nearest-neighbour graphs and clustering                                                                              |
 | 09:15-10:00                               | **Lecture:** Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping                                                             |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?)                            |
