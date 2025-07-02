@@ -20,6 +20,18 @@ website:
         text: Programme
       - text: Lectures
         menu:
+          - href: lectures/day1.qmd
+            text: "Day 1 - Mon 7 July"
+          - href: lectures/day2.qmd
+            text: "Day 2 - Tue 8 July"
+          - href: lectures/day3.qmd
+            text: "Day 3 - Wed 9 July"
+          - href: lectures/day4.qmd
+            text: "Day 4 - Thu 10 July"
+          - href: lectures/day5.qmd
+            text: "Day 5 - Fri 11 July"
+            
+            
           - href: lectures/intro.qmd
             text: Introduction to Bioconductor
           - href: lectures/transcriptomics.qmd
