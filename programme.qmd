@@ -33,7 +33,7 @@
 | 10:30-11:15                               | **Lecture:** [Regression: power, identifiability, diagnostics](lectures/day1.qmd#Regression)                                                                                 |
 | 11:15-12:00                               | **Lecture:** [Hypothesis testing](lectures/day1.qmd#HT)                                                                                                               |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
+| 14:00-15:30                               | **Lab:** [R and Bioconductor basics](lab/1_intro-to-r-bioc.qmd#r-and-bioconductor-basics)                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 16:00-17:00                               | **Lab continuation**                                                                                                                         |
 | 17:00-17:30                               | **Intro to Project Groups (optional)**                                                                                                       |
@@ -63,7 +63,7 @@
 | 08:30-09:15                               | **Lecture:** [Mass spectrometry-based proteomics including single-cell](lectures/day4.qmd#proteomics)                                                                     |
 | 09:15-10:00                               | **Lecture:** [Mass spectrometry-based metabolomics](lectures/day4.qmd#metabolomics)                                                                                             |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-12:00                               | **Lab:** Proteomics                                                                                                                          |
+| 10:30-12:00                               | **Lab:** [Proteomics](lab/4_mass-spec-prot.qmd#prot)                                                                                                                          |
 | 10:30-12:00                               | **Lab:** Metabolomics                                                                                                                        |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-14:45                               | **Lecture**: [Spatial (transcript)omics](lectures/day4.qmd#Spatial)                                                                                                        |
