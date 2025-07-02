@@ -1,0 +1,21 @@
+---
+title: "Day 3"
+subtitle:  "Wed 9 July"
+format: html
+---
+
+## 📘 Distances, nearest-neighbour graphs and clustering {#NNG}
+
+Materials coming soon.
+
+## 📘 Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping {#scRNA-adv}
+
+Materials coming soon.
+
+## 📘 Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?) {#scRNA-DEA}
+
+Materials coming soon.
+
+## 📘 Single cell advanced topics: multi-omics {#scRNA-adv2}
+
+Materials coming soon.
