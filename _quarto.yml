@@ -34,7 +34,7 @@ website:
         menu:
           - href: lab/intro-to-r-bioc.qmd
             text: Intro to R and Bioconductor
-          - href: lab/quarto-intro.qmd
+          - href: lab/2_quarto-intro/2_quarto-intro.qmd
             text: Intro to Quarto
           - href: lab/bulk-rnaseq.qmd
             text: Bulk RNA-seq analysis
