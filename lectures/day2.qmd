@@ -1,0 +1,21 @@
+---
+title: "Day 2"
+subtitle:  "Tue 8 July"
+format: html
+---
+
+## 📘 RNA-Seq differential expression {#DE}
+
+Materials coming soon.
+
+## 📘 Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings {#sceRNA}
+
+Materials coming soon.
+
+## 📘 Dimension reduction: PCA and other low-dimensional embeddings {#Dim-red}
+
+Materials coming soon.
+
+## 📘 Chromatin accessibility and ATAC-seq {#ATAC}
+
+Materials coming soon.

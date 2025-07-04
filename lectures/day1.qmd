@@ -1,0 +1,21 @@
+---
+title: "Day 1"
+subtitle:  "Mon 7 July"
+format: html
+---
+
+## 📘 Introduction to Bioconductor {#intro}
+
+Materials coming soon.
+
+## 📘 Transcriptomics: biology of transcription, quantification, batch effects and QC {#transcriptomics}
+
+Materials coming soon.
+
+## 📘 Regression: power, identifiability, diagnostics {#Regression}
+
+Materials coming soon.
+
+## 📘 Hypothesis testing {#HT}
+
+Materials coming soon.
