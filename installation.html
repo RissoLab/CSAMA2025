@@ -179,8 +179,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#setup-steps" id="toc-setup-steps" class="nav-link active" data-scroll-target="#setup-steps">Setup Steps:</a>
+  <li><a href="#r-and-rstudio-setup" id="toc-r-and-rstudio-setup" class="nav-link active" data-scroll-target="#r-and-rstudio-setup">R and RStudio setup:</a></li>
+  <li><a href="#docker-setup" id="toc-docker-setup" class="nav-link" data-scroll-target="#docker-setup">Docker setup</a>
   <ul class="collapse">
+  <li><a href="#install-docker" id="toc-install-docker" class="nav-link" data-scroll-target="#install-docker">1. Install Docker</a></li>
+  <li><a href="#download-the-required-docker-images" id="toc-download-the-required-docker-images" class="nav-link" data-scroll-target="#download-the-required-docker-images">2. Download the required Docker images</a>
+  <ul class="collapse">
+  <li><a href="#spatial-transcriptomics-lab" id="toc-spatial-transcriptomics-lab" class="nav-link" data-scroll-target="#spatial-transcriptomics-lab">Spatial Transcriptomics lab</a></li>
+  <li><a href="#metabolomics-lab" id="toc-metabolomics-lab" class="nav-link" data-scroll-target="#metabolomics-lab">Metabolomics lab</a></li>
+  </ul></li>
   <li><a href="#in-case-of-errors" id="toc-in-case-of-errors" class="nav-link" data-scroll-target="#in-case-of-errors">In case of errors</a></li>
   </ul></li>
   </ul>
@@ -194,8 +201,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <p>This page contains important instructions that you should follow before arriving at the course.</p>
 <p>Due to the limited Internet connectivity at the course venue, it is necessary that you install all required software on your laptop before arriving. Because of the range of topics covered in the course you will need to download a large number of packages, so it is really helpful to do this in advance. To do so, please follow these steps.</p>
-<section id="setup-steps" class="level1">
-<h1>Setup Steps:</h1>
+<section id="r-and-rstudio-setup" class="level1">
+<h1>R and RStudio setup:</h1>
 <ol type="1">
 <li><p>Please install the current release version of R (version 4.5.1). For more instructions, please check <a href="https://cran.r-project.org/">https://cran.r-project.org/</a></p></li>
 <li><p>Please install and set up Git. Jenny Bryan has some excellent instructions available at <a href="http://happygitwithr.com/install-git.html">http://happygitwithr.com/install-git.html</a></p></li>
@@ -213,6 +220,43 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">source</span>(<span class="st">"https://raw.githubusercontent.com/RissoLab/CSAMA2025/refs/heads/main/installation_script/install_packages.R"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>The script will check if you have the versions of R, Bioconductor and RStudio that are required for the course. The script will also install the R/Bioconductor packages needed for the course. The script might trigger a question about whether you would like to update old packages, please select the option to update “all”. It will also download several datasets used during the course, and may prompt you to create new folders. It is safe to use the default options here. This process may take a long time, but it is generally OK to leave it running after the installation has started. The list of packages may be updated nearer to the start date, so it is worth running this script several times in the build up to the course.</p>
+</section>
+<section id="docker-setup" class="level1">
+<h1>Docker setup</h1>
+<p>To ensure smooth execution of some labs and avoid network overload at the venue, please complete the following steps before arriving:</p>
+<section id="install-docker" class="level2">
+<h2 class="anchored" data-anchor-id="install-docker">1. Install Docker</h2>
+<p>If you haven’t done so already, install Docker on your machine:<br>
+<a href="https://docs.docker.com/engine/install/">https://docs.docker.com/engine/install/</a></p>
+</section>
+<section id="download-the-required-docker-images" class="level2">
+<h2 class="anchored" data-anchor-id="download-the-required-docker-images">2. Download the required Docker images</h2>
+<section id="spatial-transcriptomics-lab" class="level3">
+<h3 class="anchored" data-anchor-id="spatial-transcriptomics-lab">Spatial Transcriptomics lab</h3>
+<ul>
+<li>Image: <code>robertclab/upf_mscbinf_ieo_spatialomics</code></li>
+<li>Pull the image on your terminal:</li>
+</ul>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">docker</span> pull robertclab/upf_mscbinf_ieo_spatialomics</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<ul>
+<li>Run the container with the following command:</li>
+</ul>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">docker</span> run <span class="at">-d</span> <span class="at">-p</span> 8787:8787 <span class="at">-e</span> PASSWORD=ieo <span class="at">--rm</span> robertclab/upf_mscbinf_ieo_spatialomics</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Then open the following link in your browser: <a href="https://localhost:8787">https://localhost:8787</a></p>
+<ul>
+<li>Username: rstudio</li>
+<li>Password: ieo</li>
+</ul>
+</section>
+<section id="metabolomics-lab" class="level3">
+<h3 class="anchored" data-anchor-id="metabolomics-lab">Metabolomics lab</h3>
+<ul>
+<li>Image: <code>rformassspectrometry/metabonaut:latest</code></li>
+<li>Pull the image on your terminal:</li>
+</ul>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">docker</span> pull rformassspectrometry/metabonaut:latest</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+</section>
 <section id="in-case-of-errors" class="level2">
 <h2 class="anchored" data-anchor-id="in-case-of-errors">In case of errors</h2>
 <p>If you encounter any errors, please pay close attention to the messages displayed, they may contain further instructions.</p>
