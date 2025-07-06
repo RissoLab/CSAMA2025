@@ -76,7 +76,6 @@
 | 15:30-17:00                               | **Lab:** Interactive exploration with iSEE                                                                                                   |
 | 15:30-17:00                               | **Lab:** Working with Image Data                                                                                                             |
 | 17:00-17:30                               | **Flashlight talks**                                                                                                                         |
-| 20:10-22:00                               | **Evening session:** Drinks will be provided                                                                                                 |
 | <font color="teal">**Fri 11 July**</font> |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Design of High Throughput Experiments and their Analysis                                                                        |
 | 09:15-10:00                               | **Lecture:** Machine learning                                                                                                                |
