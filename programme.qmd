@@ -33,7 +33,7 @@
 | 10:30-11:15                               | **Lecture:** [Regression: power, identifiability, diagnostics](lectures/day1.qmd#Regression)                                                                                 |
 | 11:15-12:00                               | **Lecture:** [Hypothesis testing](lectures/day1.qmd#HT)                                                                                                               |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-15:30                               | **Lab:** [R and Bioconductor basics](lab/1_intro-to-r-bioc.qmd#r-and-bioconductor-basics)                                                                                                           |
+| 14:00-15:30                               | **Lab:** [R and Bioconductor basics](lab/1_intro-to-r-bioc/lab-1-intro-to-r-bioc.html#r-and-bioconductor-basics)                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 16:00-17:00                               | **Lab continuation**                                                                                                                         |
 | 17:00-17:30                               | **Intro to Project Groups (optional)**                                                                                                       |
