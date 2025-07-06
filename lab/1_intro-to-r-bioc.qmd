@@ -1,9 +1,0 @@
----
-title: "Day 1"
-subtitle:  "Mon 7 July"
-format: html
----
-
-## 🧪 R and Bioconductor basics {#r-and-bioconductor-basics}
-
-Materials coming soon.

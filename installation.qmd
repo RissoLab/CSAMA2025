@@ -2,7 +2,7 @@ This page contains important instructions that you should follow before arriving
 
 Due to the limited Internet connectivity at the course venue, it is necessary that you install all required software on your laptop before arriving. Because of the range of topics covered in the course you will need to download a large number of packages, so it is really helpful to do this in advance. To do so, please follow these steps.
 
-# Setup Steps:
+# R and RStudio setup:
 
 1.  Please install the current release version of R (version 4.5.1). For more instructions, please check [https://cran.r-project.org/](https://cran.r-project.org/)
 
@@ -27,6 +27,43 @@ source("https://raw.githubusercontent.com/RissoLab/CSAMA2025/refs/heads/main/ins
 ```
 
 The script will check if you have the versions of R, Bioconductor and RStudio that are required for the course. The script will also install the R/Bioconductor packages needed for the course. The script might trigger a question about whether you would like to update old packages, please select the option to update “all”. It will also download several datasets used during the course, and may prompt you to create new folders. It is safe to use the default options here. This process may take a long time, but it is generally OK to leave it running after the installation has started. The list of packages may be updated nearer to the start date, so it is worth running this script several times in the build up to the course.
+
+# Docker setup
+
+To ensure smooth execution of some labs and avoid network overload at the venue, please complete the following steps before arriving:
+
+## 1. Install Docker
+
+If you haven’t done so already, install Docker on your machine:  
+[https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+
+## 2. Download the required Docker images
+
+### Spatial Transcriptomics lab
+
+- Image: `robertclab/upf_mscbinf_ieo_spatialomics`
+- Pull the image on your terminal:
+```bash
+docker pull robertclab/upf_mscbinf_ieo_spatialomics
+```
+
+- Run the container with the following command:
+
+```bash
+docker run -d -p 8787:8787 -e PASSWORD=ieo --rm robertclab/upf_mscbinf_ieo_spatialomics
+```
+Then open the following link in your browser:
+[https://localhost:8787](https://localhost:8787)
+
+- Username: rstudio
+- Password: ieo
+
+### Metabolomics lab
+- Image: `rformassspectrometry/metabonaut:latest`
+- Pull the image on your terminal:
+```bash
+docker pull rformassspectrometry/metabonaut:latest
+```
 
 ## In case of errors
 

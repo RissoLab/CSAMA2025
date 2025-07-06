@@ -21,18 +21,18 @@ website:
       - text: Lectures
         menu:
           - href: lectures/day1.qmd
-            text: "Day 1 - Mon 7 July"
+            text: Day 1
           - href: lectures/day2.qmd
-            text: "Day 2 - Tue 8 July"
+            text: Day 2
           - href: lectures/day3.qmd
-            text: "Day 3 - Wed 9 July"
+            text: Day 3
           - href: lectures/day4.qmd
-            text: "Day 4 - Thu 10 July"
+            text: Day 4
           - href: lectures/day5.qmd
-            text: "Day 5 - Fri 11 July"
+            text: Day 5
       - text: Labs
         menu:
-          - href: lab/intro-to-r-bioc.qmd
+          - href: lab/1_intro-to-r-bioc/lab-1-intro-to-r-bioc.html
             text: Intro to R and Bioconductor
           - href: lab/2_quarto-intro/2_quarto-intro.qmd
             text: Intro to Quarto
