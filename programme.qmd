@@ -32,7 +32,8 @@
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Regression: randomness and linear models                                                                                        |
 | 11:15-12:00                               | **Lecture:** Hypothesis testing                                                                                                              |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
+| 12:00-12:30                               | **Discussion in the garden**                                                                                                              |
+| 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** R and Bioconductor basics                                                                                                           |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 16:00-17:00                               | **Lab continuation**                                                                                                                         |
@@ -44,7 +45,8 @@
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 10:30-11:15                               | **Lecture:** Chromatin accessibility and ATAC-seq                                                                                            |
 | 11:15-12:00                               | **Lecture:** Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings                                                   |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
+| 12:00-12:30                               | **Discussion in the garden**
+| 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Lab:** End-to-end RNA-Seq workflow                                                                                                         |
 | 14:00-15:30                               | **Lab:** Single-cell transcriptomics                                                                                                         |
 | 15:30-16:00                               | \~\~\~ Coffee \~\~\~                                                                                                                         |
@@ -63,9 +65,9 @@
 | 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-12:00                               | **Lab:** Proteomics                                                                                                                          |
-| 10:30-12:00                               | **Lab:** End-to-end Metabolomics workflow                                                                                                    |
-| 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
+| 10:30-12:30                               | **Lab:** Proteomics                                                                                                                          |
+| 10:30-12:30                               | **Lab:** End-to-end Metabolomics workflow                                                                                                    |
+| 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-14:45                               | **Lecture**: Statistical methods for spatial omics                                                                                           |
 | 14:45-15:15                               | **Lecture:**: Bioconductor advanced topics: annotation resources, language interoperation                                                    |
 | 15:15-15:30                               | \~\~\~ Coffee \~\~\~                                                                                                                         |
@@ -83,7 +85,7 @@
 | 10:30-11:15                               | **Lecture:** Deep learning for digital pathology                                                                                             |
 | 11:15-12:00                               | **Panel discussion:** The use of LLM in biology: challenges and perspectives                                                                 |
 | 12:00                                     | **Closing remarks**                                                                                                                          |
-| 12:15-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
+| 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-15:30                               | **Career panel discussion**                                                                                                                  |
 | 15:30-16:00                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
 | 16:00-16:30                               | **Group project presentations**                                                                                                              |
