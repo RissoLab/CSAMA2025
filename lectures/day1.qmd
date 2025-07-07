@@ -12,7 +12,7 @@ Welcome to Day 1! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Introduction to Bioconductor {#intro}
 
-🔗 [Open slides](https://docs.google.com/presentation/d/1tncVXL98dkQGEORyoFrfz-5EakBSL7O7KvcpmGgEYwc/edit?usp=sharing)
+🔗 [Open slides](https://drive.google.com/file/d/1jtXWQAODRJRasCwOtUpgIArokg1qNx_C/view?usp=sharing)
 
 ---
 
