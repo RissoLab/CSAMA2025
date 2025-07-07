@@ -1,0 +1,21 @@
+---
+title: "Day 4"
+subtitle:  "Fri 11 July"
+format: html
+---
+
+## 📘 Design of High Throughput Experiments and their Analysis {#Design}
+
+Materials coming soon.
+
+## 📘 Machine learning (Robert Gentleman) {#ML}
+
+Materials coming soon.
+
+## 📘 AI tools for biology {#AI_1}
+
+Materials coming soon.
+
+## 📘 AI tools for biology {#AI_2}
+
+Materials coming soon.

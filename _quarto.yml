@@ -20,6 +20,38 @@ website:
         text: Home
       - href: programme.qmd
         text: Programme
+      - text: Lectures
+        menu:
+          - href: lectures/day1.qmd
+            text: Day 1
+          - href: lectures/day2.qmd
+            text: Day 2
+          - href: lectures/day3.qmd
+            text: Day 3
+          - href: lectures/day4.qmd
+            text: Day 4
+          - href: lectures/day5.qmd
+            text: Day 5
+      - text: Labs
+        menu:
+          - href: lab/1_intro-to-r-bioc/lab-1-intro-to-r-bioc.html
+            text: Intro to R and Bioconductor
+          - href: lab/2_quarto-intro/2_quarto-intro.qmd
+            text: Intro to Quarto
+          - href: lab/bulk-rnaseq.qmd
+            text: Bulk RNA-seq analysis
+          - href: lab/single-cell-rnaseq.qmd
+            text: Single cell RNA-seq analysis
+          - href: lab/single-cell-rnaseq-adv.qmd
+            text: Advanced single-cell RNA-seq analysis
+          - href: lab/bulk-atacseq.qmd
+            text: Bulk ATAC-seq analysis
+          - href: lab/mass-spec-prot.qmd
+            text: Mass spectrometry-based proteomics
+          - href: lab/spat-trans.qmd
+            text: Spatial transcriptomics
+          - href: lab/interac-exp-isee.qmd
+            text: Interactive exploration with iSEE
       - href: registration.qmd
         text: Registration
       - href: venue.qmd
