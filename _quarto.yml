@@ -38,13 +38,15 @@ website:
             text: Intro to R and Bioconductor
           - href: lab/2_quarto-intro/2_quarto-intro.qmd
             text: Intro to Quarto
-          - href: lab/bulk-rnaseq.qmd
+          - href: lab/3_regression/randomness_and_linear.html
+            text: Regression
+          - href: lab/4_bulk-rnaseq/rnaseqGene_CSAMA2025.html
             text: Bulk RNA-seq analysis
-          - href: lab/single-cell-rnaseq.qmd
-            text: Single cell RNA-seq analysis
-          - href: lab/single-cell-rnaseq-adv.qmd
-            text: Advanced single-cell RNA-seq analysis
-          - href: lab/bulk-atacseq.qmd
+          - href: lab/5_single-cell-rnaseq/eda_qc.html
+            text: ScRNA-seq EDA
+          - href: lab/5_single-cell-rnaseq/cell_type_annotation.html
+            text: ScRNA-seq Annotation
+          - href: lab/6_bulk-atacseq/fluent-genomics-v2.html
             text: Bulk ATAC-seq analysis
           - href: lab/mass-spec-prot.qmd
             text: Mass spectrometry-based proteomics
