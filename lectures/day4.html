@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-82e0a743ef67a4b3d8539d9d5a846816.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,20 +144,20 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Intro to Quarto</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lab/bulk-rnaseq.html">
+    <a class="dropdown-item" href="../lab/3_regression/randomness_and_linear.html">
+ <span class="dropdown-text">Regression</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../lab/4_bulk-rnaseq/rnaseqGene_CSAMA2025.html">
  <span class="dropdown-text">Bulk RNA-seq analysis</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lab/single-cell-rnaseq.html">
- <span class="dropdown-text">Single cell RNA-seq analysis</span></a>
+    <a class="dropdown-item" href="../lab/5_single-cell-rnaseq/eda_qc.html">
+ <span class="dropdown-text">ScRNA-seq EDA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lab/single-cell-rnaseq-adv.html">
- <span class="dropdown-text">Advanced single-cell RNA-seq analysis</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../lab/bulk-atacseq.html">
- <span class="dropdown-text">Bulk ATAC-seq analysis</span></a>
+    <a class="dropdown-item" href="../lab/5_single-cell-rnaseq/cell_type_annotation.html">
+ <span class="dropdown-text">ScRNA-seq Annotation</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../lab/mass-spec-prot.html">
@@ -345,6 +345,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -455,6 +457,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
