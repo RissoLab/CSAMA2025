@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: _site
-  
+  resources:
+  - lab/1_intro-to-r-bioc/**
+
 website:
   title: "CSAMA 2025 Biological Data Science"
   open-graph:
