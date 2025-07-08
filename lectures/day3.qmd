@@ -4,6 +4,10 @@ subtitle:  "Wed 9 July"
 format: html
 ---
 
+::: {.callout-note}
+Welcome to Day 3! Below you'll find the lectures and materials to explore. Click the 🔗 links to open the slides or resources.
+:::
+
 ## 📘 Distances, nearest-neighbour graphs and clustering {#NNG}
 
 Materials coming soon.
@@ -14,7 +18,7 @@ Materials coming soon.
 
 ## 📘 Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?) {#scRNA-DEA}
 
-Materials coming soon.
+🔗 [Open slides](https://docs.google.com/presentation/d/16eELRfthxSorWfFwP98m6H36qeUrz1lzpxDPYnzq3PA/edit?usp=sharing)
 
 ## 📘 Single cell advanced topics: multi-omics {#scRNA-adv2}
 
