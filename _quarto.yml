@@ -48,8 +48,6 @@ website:
             text: ScRNA-seq EDA
           - href: lab/5_single-cell-rnaseq/cell_type_annotation.html
             text: ScRNA-seq Annotation
-          - href: lab/6_bulk-atacseq/fluent-genomics-v2.html
-            text: Bulk ATAC-seq analysis
           - href: lab/mass-spec-prot.qmd
             text: Mass spectrometry-based proteomics
           - href: lab/spat-trans.qmd
