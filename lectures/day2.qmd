@@ -13,13 +13,19 @@ Welcome to Day 2! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 RNA-Seq differential expression {#DE}
 
-🔗 [Open slides](https://drive.google.com/file/d/1d7x6vVilWb0Qmmgk3QrbW3JOAYKstqvb/view?usp=drive_open)
+🔗 [Open slides](https://drive.google.com/file/d/1m-wJogJuCtjNIy_N9iEry_HnaJ8CoDHD/view?usp=drive_link)
 
 ---
 
 ## 📘 Dimension reduction: PCA and other low-dimensional embeddings {#Dim-red}
 
-🔗 [Open slides](https://drive.google.com/file/d/1sh_n7gUkFDgKtxuVnZvekYEDIWtntWB_/view?usp=drive_link)
+🔗 [Open slides]()
+
+---
+
+## 📘 Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings {#sceRNA}
+
+🔗 [Open slides]()
 
 ---
 
@@ -28,11 +34,4 @@ Welcome to Day 2! Below you'll find the lectures and materials to explore. Click
 🔗 [Open slides](https://docs.google.com/presentation/d/152d9DAGPmqQDV0Vxq4DK1me56PhBvxNRiqS1ACmh_TQ/edit?usp=sharing)
 
 ---
-
-## 📘 Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings {#sceRNA}
-
-🔗 [Open slides](https://drive.google.com/file/d/1oW_DbHpc_XIx30uAYx82tdhv-ewTcKWk/view?usp=drive_link)
-
----
-
 
