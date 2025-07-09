@@ -25,7 +25,7 @@ Welcome to Day 2! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings {#sceRNA}
 
-Materials coming soon.
+🔗 [Open slides](https://drive.google.com/file/d/1loa3BLac2vPtu-tFETduXxrCmOsePmeL/view?usp=drive_link)
 
 ---
 

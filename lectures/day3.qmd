@@ -12,14 +12,14 @@ Welcome to Day 3! Below you'll find the lectures and materials to explore. Click
 
 Materials coming soon.
 
-## 📘 Single cell RNA-seq advanced topics: pseudo-bulking, double-dipping {#scRNA-adv}
+## 📘 Multi-condition single cell RNA-seq I: pseudo-bulking, double-dipping {#scRNA-adv}
 
-Materials coming soon.
+🔗 [Open slides](https://drive.google.com/file/d/1fVtabaDMzThY92MqD3igHH-7JAHVGC-X/view?usp=sharing)
 
-## 📘 Multi-condition single cell RNA-seq differential analysis (or when is the right time to categorize?) {#scRNA-DEA}
+## 📘 Multi-condition single cell RNA-seq II: when is the right time to categorize? {#scRNA-DEA}
 
 🔗 [Open slides](https://docs.google.com/presentation/d/16eELRfthxSorWfFwP98m6H36qeUrz1lzpxDPYnzq3PA/edit?usp=sharing)
 
-## 📘 Single cell advanced topics: multi-omics {#scRNA-adv2}
+## 📘 Introduction to spatial omics 
 
 Materials coming soon.
