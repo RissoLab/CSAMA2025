@@ -65,11 +65,11 @@
 | 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-12:30                               | **Lab:** Proteomics                                                                                                                          |
-| 10:30-12:30                               | **Lab:** End-to-end Metabolomics workflow                                                                                                    |
+| 10:30-12:30                               | **Lecture:** Statistical methods for spatial omics                                                                                                                          |
+| 10:30-12:30                               | **Lecture:** Bioconductor advanced topics: annotation resources, language interoperation                                                                                                    |
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-14:45                               | **Lecture**: Statistical methods for spatial omics                                                                                           |
-| 14:45-15:15                               | **Lecture:**: Bioconductor advanced topics: annotation resources, language interoperation                                                    |
+| 14:00-14:45                               | **Lab:** Proteomics                                                                                           |
+| 14:45-15:15                               |  **Lab:** End-to-end Metabolomics workflow                                                    |
 | 15:15-15:30                               | \~\~\~ Coffee \~\~\~                                                                                                                         |
 | 15:30-17:00                               | **Lab:** Multi-condition single cell RNA-seq differential analysis                                                                           |
 | 15:30-17:00                               | **Lab:** Intro to Tidyomics: tidy data analysis applied to omics data                                                                        |
