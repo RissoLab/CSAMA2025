@@ -65,8 +65,9 @@
 | 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |
 | 10:00-10:30                               | *\~\~\~ Coffee \~\~\~*                                                                                                                       |
-| 10:30-12:30                               | **Lecture:** Statistical methods for spatial omics                                                                                                                          |
-| 10:30-12:30                               | **Lecture:** Bioconductor advanced topics: annotation resources, language interoperation                                                                                                    |
+| 10:30-11:15                               | **Lecture:** Statistical methods for spatial omics                                                                                                                          |
+| 11:15-12:00                               | **Lecture:** Bioconductor advanced topics: annotation resources, language interoperation                                                                                                    |
+| 12:00-12:30                               | **Discussion in the garden**
 | 12:30-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
 | 14:00-14:45                               | **Lab:** Proteomics                                                                                           |
 | 14:45-15:15                               |  **Lab:** End-to-end Metabolomics workflow                                                    |
