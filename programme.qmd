@@ -60,7 +60,7 @@
 | 10:30-11:15                               | **Lecture:** Multi-condition single cell RNA-seq II: when is the right time to categorize?                                                   |
 | 11:15-12:00                               | **Lecture:** Introduction to spatial omics                                                                                                   |
 | 12:00-14:00                               | *\~\~\~ Lunch break \~\~\~*                                                                                                                  |
-| 14:00-17:00                               | **Social Programme:** [Excursion to the mountains and dinner](../about/#social) Photos: [By WH](https://photos.app.goo.gl/8SLt6fHGoGiTNEMT8) |
+| 14:00-17:00                               | **Social Programme:** Excursion to the mountains and dinner. Photos: [By WH](https://photos.app.goo.gl/8SLt6fHGoGiTNEMT8) |
 | <font color="teal">**Thu 10 July**</font> |                                                                                                                                              |
 | 08:30-09:15                               | **Lecture:** Mass spectrometry-based proteomics including single-cell                                                                        |
 | 09:15-10:00                               | **Lecture:** Mass spectrometry-based metabolomics                                                                                            |

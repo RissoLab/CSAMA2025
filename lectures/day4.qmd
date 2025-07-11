@@ -19,7 +19,7 @@ Welcome to Day 4! Below you'll find the lectures and materials to explore. Click
 
 ## 📘 Statistical methods for spatial omics {#Spatial}
 
-Materials coming soon.
+🔗 [Open slides](https://drive.google.com/file/d/1uoz0XCUBf4Vn1UGmfgS_P3qERmF7XZuA/view?usp=sharing)
 
 ## 📘  Bioconductor advanced topics: annotation resources, language interoperation {#annotation}
 

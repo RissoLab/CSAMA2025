@@ -1,0 +1,8 @@
+---
+title: "Multi-condition single cell RNA-seq differential analysis"
+format: html
+---
+
+## 🔗 Open the Lab File  
+[Click here to access the lab](https://bioconductor.github.io/CSAMA-labs/multicond-scRNA-lemur/multicond-scRNA-lemur-CSAMA2024.html/)
+
