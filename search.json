@@ -319,69 +319,62 @@
     "href": "lectures/day4.html",
     "title": "Day 4",
     "section": "",
-    "text": "Materials coming soon."
+    "text": "Note\n\n\n\nWelcome to Day 4! Below you’ll find the lectures and materials to explore. Click the 🔗 links to open the slides or resources."
   },
   {
     "objectID": "lectures/day4.html#proteomics",
     "href": "lectures/day4.html#proteomics",
     "title": "Day 4",
-    "section": "",
-    "text": "Materials coming soon."
+    "section": "📘 Mass spectrometry-based proteomics including single-cell",
+    "text": "📘 Mass spectrometry-based proteomics including single-cell\n🔗 Open slides"
   },
   {
     "objectID": "lectures/day4.html#metabolomics",
     "href": "lectures/day4.html#metabolomics",
     "title": "Day 4",
     "section": "📘 Mass spectrometry-based metabolomics",
-    "text": "📘 Mass spectrometry-based metabolomics\nMaterials coming soon."
+    "text": "📘 Mass spectrometry-based metabolomics\n🔗 Open slides"
   },
   {
     "objectID": "lectures/day4.html#Spatial",
     "href": "lectures/day4.html#Spatial",
     "title": "Day 4",
-    "section": "📘 Spatial (transcript)omics",
-    "text": "📘 Spatial (transcript)omics\nMaterials coming soon."
+    "section": "📘 Statistical methods for spatial omics",
+    "text": "📘 Statistical methods for spatial omics\nMaterials coming soon."
   },
   {
     "objectID": "lectures/day4.html#annotation",
     "href": "lectures/day4.html#annotation",
     "title": "Day 4",
-    "section": "📘 Bioconductor advanced topics: annotation resources",
-    "text": "📘 Bioconductor advanced topics: annotation resources\nMaterials coming soon."
+    "section": "📘 Bioconductor advanced topics: annotation resources, language interoperation",
+    "text": "📘 Bioconductor advanced topics: annotation resources, language interoperation\nMaterials coming soon."
   },
   {
     "objectID": "lectures/day5.html",
     "href": "lectures/day5.html",
     "title": "Day 4",
     "section": "",
-    "text": "Materials coming soon."
+    "text": "Note\n\n\n\nWelcome to Day 5! Below you’ll find the lectures and materials to explore. Click the 🔗 links to open the slides or resources."
   },
   {
     "objectID": "lectures/day5.html#Design",
     "href": "lectures/day5.html#Design",
     "title": "Day 4",
-    "section": "",
-    "text": "Materials coming soon."
+    "section": "📘 Design of High Throughput Experiments and their Analysis",
+    "text": "📘 Design of High Throughput Experiments and their Analysis\n🔗 Open slides"
   },
   {
     "objectID": "lectures/day5.html#ML",
     "href": "lectures/day5.html#ML",
     "title": "Day 4",
-    "section": "📘 Machine learning (Robert Gentleman)",
-    "text": "📘 Machine learning (Robert Gentleman)\nMaterials coming soon."
+    "section": "📘 Machine learning",
+    "text": "📘 Machine learning\nMaterials coming soon."
   },
   {
     "objectID": "lectures/day5.html#AI_1",
     "href": "lectures/day5.html#AI_1",
     "title": "Day 4",
-    "section": "📘 AI tools for biology",
-    "text": "📘 AI tools for biology\nMaterials coming soon."
-  },
-  {
-    "objectID": "lectures/day5.html#AI_2",
-    "href": "lectures/day5.html#AI_2",
-    "title": "Day 4",
-    "section": "📘 AI tools for biology",
-    "text": "📘 AI tools for biology\nMaterials coming soon."
+    "section": "📘 Deep learning for digital pathology",
+    "text": "📘 Deep learning for digital pathology\n🔗 Open slides"
   }
 ]
