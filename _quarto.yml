@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
   - lab/1_intro-to-r-bioc/**
+  - lectures/metabolomics-overview.html
 
 website:
   title: "CSAMA 2025 Biological Data Science"
