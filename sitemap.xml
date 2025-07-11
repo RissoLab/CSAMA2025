@@ -2,22 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://RissoLab.github.io/CSAMA2025/programme.html</loc>
-    <lastmod>2025-07-09T21:06:03.850Z</lastmod>
+    <lastmod>2025-07-11T15:07:39.617Z</lastmod>
   </url>
   <url>
     <loc>https://RissoLab.github.io/CSAMA2025/lectures/day1.html</loc>
     <lastmod>2025-07-08T12:09:32.099Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/lectures/day2.html</loc>
-    <lastmod>2025-07-09T21:06:03.849Z</lastmod>
+    <loc>https://RissoLab.github.io/CSAMA2025/lectures/links.html</loc>
+    <lastmod>2025-07-11T15:08:31.990Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/programme-coming-soon.html</loc>
+    <loc>https://RissoLab.github.io/CSAMA2025/lectures/day3.html</loc>
+    <lastmod>2025-07-11T15:07:39.616Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/code.html</loc>
+    <lastmod>2025-07-08T12:09:31.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/registration-coming-soon.html</loc>
     <lastmod>2025-07-08T12:09:32.099Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/venue.html</loc>
+    <loc>https://RissoLab.github.io/CSAMA2025/registration.html</loc>
+    <lastmod>2025-07-08T12:09:32.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/contacts.html</loc>
+    <lastmod>2025-07-08T12:09:31.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/12_Trajectory.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/9_multi.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/14_Image.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/8_metab/Metabonaut.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/installation.html</loc>
+    <lastmod>2025-07-08T12:09:32.033Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/10_Tidyomics.html</loc>
+    <lastmod>2025-07-11T15:07:39.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/2_quarto-intro/2_quarto-intro.html</loc>
+    <lastmod>2025-07-08T12:09:32.062Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/13_iSEE.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/11_spatial/spatial.html</loc>
+    <lastmod>2025-07-11T15:07:39.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/lab/7_prot/proteom.html</loc>
+    <lastmod>2025-07-11T15:07:39.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RissoLab.github.io/CSAMA2025/travel-and-accommodation.html</loc>
     <lastmod>2025-07-08T12:09:32.100Z</lastmod>
   </url>
   <url>
@@ -25,43 +81,23 @@
     <lastmod>2025-07-08T12:09:32.032Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/travel-and-accommodation.html</loc>
+    <loc>https://RissoLab.github.io/CSAMA2025/venue.html</loc>
     <lastmod>2025-07-08T12:09:32.100Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/lab/2_quarto-intro/2_quarto-intro.html</loc>
-    <lastmod>2025-07-08T12:09:32.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/installation.html</loc>
-    <lastmod>2025-07-08T12:09:32.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/contacts.html</loc>
-    <lastmod>2025-07-08T12:09:31.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/registration.html</loc>
+    <loc>https://RissoLab.github.io/CSAMA2025/programme-coming-soon.html</loc>
     <lastmod>2025-07-08T12:09:32.099Z</lastmod>
   </url>
   <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/registration-coming-soon.html</loc>
-    <lastmod>2025-07-08T12:09:32.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/code.html</loc>
-    <lastmod>2025-07-08T12:09:31.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RissoLab.github.io/CSAMA2025/lectures/day3.html</loc>
-    <lastmod>2025-07-09T21:06:03.850Z</lastmod>
+    <loc>https://RissoLab.github.io/CSAMA2025/lectures/day2.html</loc>
+    <lastmod>2025-07-09T21:06:03.849Z</lastmod>
   </url>
   <url>
     <loc>https://RissoLab.github.io/CSAMA2025/lectures/day4.html</loc>
-    <lastmod>2025-07-11T10:13:49.369Z</lastmod>
+    <lastmod>2025-07-11T15:07:39.616Z</lastmod>
   </url>
   <url>
     <loc>https://RissoLab.github.io/CSAMA2025/lectures/day5.html</loc>
-    <lastmod>2025-07-11T10:17:21.389Z</lastmod>
+    <lastmod>2025-07-11T15:07:39.616Z</lastmod>
   </url>
 </urlset>
