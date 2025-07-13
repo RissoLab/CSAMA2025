@@ -37,7 +37,7 @@ format: html
 ## 🧬 Bioinformatics
 
 - **RNA velocity** (mentioned by Davide):  
-  ["RNA velocity revisited"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03065-x)
+  ["Pumping the brakes on RNA velocity by understanding and interpreting RNA velocity estimates"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03065-x)
   
 ---
 
@@ -47,28 +47,26 @@ format: html
   GitHub repo: `comprna/CHEUI`
 
 - [CSAMA Annotation Repository – by Vince Carey](https://github.com/vjcitn/CSAMA_annotation)  
-  Mostly single-cell annotation, but more general concerns too
 
 ---
 
-## 🔬 Project: Multi-omics (bulk)
+## 🔬 Multi-omics-bulk Working Group
 
 - **Shared Google Doc with discussion notes**  
   [Multi-omics summary and collaborative document](https://docs.google.com/document/d/1RHyM1oFmxOUkCbE-dAvhgOS4Nue8RQ8A6YBi_YdjGpo/edit?usp=sharing)
 
 ---
 
-## 📦 R Packaging & Bioconductor
+## 📦 R Packaging Working Group
 
 - [Bioconductor Package Submission Guidelines](https://contributions.bioconductor.org/bioconductor-package-submissions.html)
 - [R Package Development Walkthrough (Sonesson)](https://csoneson.github.io/PackagingLecture2024/packaging-code.html)
 - [PLOS CompBio summary of Bioconductor contributions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856)
-- 📁 **bobR.zip** – [Download file](lectures/bobR.zip)  
-  *Shared by Helena L. Crowell – likely related to R packaging or workshop materials*
  
 ---
 
 ## 📷 Photos
 
 - [Google Photos Album](https://photos.app.goo.gl/epZm6WksKSujuTxJ9)
-  **Feel free to add your photos!**
+  
+**Feel free to add your photos!**
