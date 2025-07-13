@@ -70,5 +70,6 @@ format: html
 
 ## 📷 Photos
 
-- [Google Photos Album](https://photos.app.goo.gl/epZm6WksKSujuTxJ9)
+- [Google Photos Album](https://photos.app.goo.gl/epZm6WksKSujuTxJ9)  
+  *Feel free to add your photos!*
 
