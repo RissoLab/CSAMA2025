@@ -4,4 +4,4 @@ format: html
 ---
 
 ## 🔗 Open the Lab File  
-[Click here to access the lab](https://drive.google.com/file/d/1uFPuOCo-3ZqaTmSXpasWLPtL5YhYNxEw/view?usp=drive_link)
+[Click here to access the lab](https://lmweber.org/OSTA/pages/img-workflow-xenium.html)

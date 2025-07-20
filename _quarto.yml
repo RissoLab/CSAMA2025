@@ -4,6 +4,7 @@ project:
   resources:
   - lab/1_intro-to-r-bioc/**
   - lectures/metabolomics-overview.html
+  - lab/9_multi/**
 
 website:
   title: "CSAMA 2025 Biological Data Science"
@@ -57,7 +58,7 @@ website:
             text: R for Mass Spectrometry
           - href: lab/8_metab/Metabonaut.qmd
             text: End-to-end Metabolomics workflow
-          - href: lab/9_multi.qmd
+          - href: lab/9_multi/9_multi.html
             text: Multi-condition single cell RNA-seq differential analysis
           - href: lab/10_Tidyomics.qmd
             text: "Intro to Tidyomics: tidy data analysis applied to omics data"
