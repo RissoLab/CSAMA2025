@@ -23,4 +23,4 @@ Welcome to Day 4! Below you'll find the lectures and materials to explore. Click
 
 ## 📘  Bioconductor advanced topics: annotation resources, language interoperation {#annotation}
 
-Materials coming soon.
+🔗 [Open slides](https://drive.google.com/file/d/1SYlLnHgvcTOntOLD6nkIk9VoPKnGuljU/view?usp=sharing)
